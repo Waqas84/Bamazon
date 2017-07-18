@@ -1,8 +1,16 @@
-# Bamazon
-Bamazon is a node app that is a simplified e-commerce platform that links to a mysql database to track Products and inventory.
+# Overview
+Bamazon is an Amazon-like storefront powered by Node and MySQL. For customers, the bamazon app takes in orders, calculates price, and depletes stock from the store's inventory.
 
-Bamazon includes two apps:
+For managers, the bamazon app views inventoryand and purchase as many products as they'd like (if they're in stock).
 
-1- The Customer app (bamazonCustomer.js): 
-- client side allows a customer to view the Product Inventory, and make purchases.
-- Screenshot of how it works at https://docs.google.com/document/d/1Q5Z4GihwJLbnhzUVobSTCbs1AAKDZf_dKEfKVAJTUL8/edit?usp=sharing
+# Technology
+- Node 
+- mysql
+
+# User Guideeeee
+- Customer: Screenshot of how it works at https://docs.google.com/document/d/1Q5Z4GihwJLbnhzUVobSTCbs1AAKDZf_dKEfKVAJTUL8/edit?usp=sharing
+
+- Manager: Screenshot of how it works at https://docs.google.com/document/d/1c802q26wjQTrNccQ-eA8g0JKQhGDTNLAMYtFglw72ds/edit?usp=sharing
+
+
+eeee
