@@ -13,4 +13,3 @@ For managers, the bamazon app views inventoryand and purchase as many products a
 - Manager: Screenshot of how it works at https://docs.google.com/document/d/1c802q26wjQTrNccQ-eA8g0JKQhGDTNLAMYtFglw72ds/edit?usp=sharing
 
 
-eeee
